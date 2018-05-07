@@ -1,0 +1,62 @@
+{
+  "name": "Firebladee-newrelic",
+  "version": "0.3.0",
+  "author": "Firebladee",
+  "summary": "Installs newrelic",
+  "license": "Apache-2.0",
+  "source": "https://github.com/Firebladee/newrelic",
+  "project_page": "https://github.com/Firebladee/newrelic/wiki",
+  "issues_url": "https://github.com/Firebladee/newrelic/issues",
+  "tags": ["newrelic", "php", "java", "nodejs", "monitoring"],
+  "dependencies": [
+    {
+      "name":"puppetlabs-stdlib",
+      "version_requirement": ">= 4.1.0 < 5.0.0"
+    },
+    {
+      "name":"puppetlabs-nodejs",
+      "version_requirement": ">= 0.8.0 < 1.0.0"
+    },
+    {
+      "name":"treydock-gpg_key",
+      "version_requirement": ">= 0.0.3 < 1.0.0"
+    },
+    {
+      "name":"dsestero/download_uncompress",
+      "version_requirement": ">= 1.2.0 < 2.0.0"
+    }
+  ],
+  "data_provider": null,
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "CentOS",
+      "operatingsystemrelease": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [
+        "14.04"
+      ]
+    }
+  ],
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirements": ">=3.6.0 < 5.0.0"
+    },
+    {
+      "name": "pe",
+      "version_requirements": ">=3.6.0 < 5.0.0"
+    }
+  ]
+}
