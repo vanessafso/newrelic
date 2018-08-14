@@ -1,0 +1,11 @@
+.kitchen/
+.librarian/
+.tmp/
+.*.swp
+spec/fixtures
+pkg/
+coverage/
+Gemfile.lock
+.vagrant/
+.DS_STORE
+log/

@@ -38,5 +38,4 @@ define newrelic::java (
     multiple => true,
     require  => Download_uncompress["newrelic_${type}${version}.zip"],
   }
-
 }
