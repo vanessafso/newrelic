@@ -1,12 +1,9 @@
 {
-  "name": "Firebladee-newrelic",
-  "version": "0.3.0",
+  "name": "puppet-newrelic",
+  "version": "0.4.0",
   "author": "Firebladee",
   "summary": "Installs newrelic",
   "license": "Apache-2.0",
-  "source": "https://github.com/Firebladee/newrelic",
-  "project_page": "https://github.com/Firebladee/newrelic/wiki",
-  "issues_url": "https://github.com/Firebladee/newrelic/issues",
   "tags": ["newrelic", "php", "java", "nodejs", "monitoring"],
   "dependencies": [
     {
