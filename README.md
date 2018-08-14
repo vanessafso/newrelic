@@ -1,10 +1,6 @@
-[![Build Status](https://travis-ci.org/Firebladee/newrelic.svg?branch=master)](https://travis-ci.org/Firebladee/newrelic)
-
+# newrelic
 
 This module was taken from firebladee-newrelic 0.3.0
-
-
-# newrelic
 
 #### Table of Contents
 
