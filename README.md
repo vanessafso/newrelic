@@ -1,6 +1,6 @@
 # newrelic
 
-This module was taken from firebladee-newrelic 0.3.0
+Module Source: firebladee-newrelic 0.3.0
 
 #### Table of Contents
 
